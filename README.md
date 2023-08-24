@@ -11,7 +11,7 @@ TDCS-SLAM  is released under [GPLv3 license](https://github.com/HaojiLan/TDCS-SL
 # 2. Prerequisites
 We have tested TDCS-SLAM in laptop with AMD Ryzen 7 6800H CPU, at 3.2 GHz, **Ubuntu 18.04**. 
 
-Dowload and install [Pangolin](https://github.com/stevenlovegrove/Pangolin), [OpenCV](http://opencv.org)(tested wiht OpenCV 3.2.0), Eigen3 (tested with 3.3.4), .
+Dowload and install [Pangolin](https://github.com/stevenlovegrove/Pangolin), [OpenCV](http://opencv.org)(tested wiht OpenCV 3.2.0), Eigen3 (tested with 3.3.4).
 
 
 # 3. Building TDCS-SLAM
