@@ -1,8 +1,0 @@
-/home/hj/TDCS-SLAM/build/CMakeFiles/rebuild_cache.dir
-/home/hj/TDCS-SLAM/build/CMakeFiles/edit_cache.dir
-/home/hj/TDCS-SLAM/build/CMakeFiles/mono_inertial_tum_vi.dir
-/home/hj/TDCS-SLAM/build/CMakeFiles/mono_inertial_euroc.dir
-/home/hj/TDCS-SLAM/build/CMakeFiles/TDCS_SLAM.dir
-/home/hj/TDCS-SLAM/build/Thirdparty/g2o/CMakeFiles/rebuild_cache.dir
-/home/hj/TDCS-SLAM/build/Thirdparty/g2o/CMakeFiles/edit_cache.dir
-/home/hj/TDCS-SLAM/build/Thirdparty/g2o/CMakeFiles/g2o.dir
